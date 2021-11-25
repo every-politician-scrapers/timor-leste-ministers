@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Timor-Leste",
+      "id": "Q574"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q54819597",
+      "start": "2018-06-22",
+      "parent": "Q2137629"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "http://timor-leste.gov.tl/?p=13&lang=en",
+        "title": "Structure of the VIII Constitutional Government &laquo;  Government of Timor-Leste",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/timor-leste-ministers"
 }
