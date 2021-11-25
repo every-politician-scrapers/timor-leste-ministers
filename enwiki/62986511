@@ -1,0 +1,194 @@
+{
+  "title": "Longuinhos dos Santos",
+  "pageID": 62986511,
+  "categories": [
+    "Government ministers of East Timor",
+    "Living people",
+    "People's Liberation Party (East Timor) politicians",
+    "Year of birth missing (living people)",
+    "21st-century politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Longuinhos dos Santos is an East Timorese politician, and a member of the People's Liberation Party (PLP).",
+              "links": [
+                {
+                  "text": "East Timorese",
+                  "type": "internal",
+                  "page": "East Timor"
+                },
+                {
+                  "text": "People's Liberation Party",
+                  "type": "internal",
+                  "page": "People's Liberation Party (East Timor)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Longuinhos dos Santos"
+                ]
+              }
+            },
+            {
+              "text": "He is the incumbent Minister of Higher Education, Science and Culture, serving since June 2018 under the VIII Constitutional Government of East Timor led by Taur Matan Ruak.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "VIII Constitutional Government of East Timor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taur Matan Ruak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Previously, Santos was the Second Vice-Dean of the National University of Timor-Leste (UNTL).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National University of Timor-Leste"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "East Timorese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2020",
+          "template": "engvarb"
+        },
+        {
+          "date": "January 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "6",
+            "date": "22",
+            "df": "y",
+            "template": "start date",
+            "text": "June 22, 2018"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Longuinhos dos Santos"
+          },
+          "image": {
+            "text": "Longuinhos dos Santos Ministro Ensino Superior Ciensa e Cultura.jpg"
+          },
+          "caption": {
+            "text": "Santos in 2018"
+          },
+          "party": {
+            "text": "People's Liberation Party",
+            "links": [
+              {
+                "text": "People's Liberation Party",
+                "type": "internal",
+                "page": "People's Liberation Party (East Timor)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Higher Education, Science and Culture"
+          },
+          "term_start1": {
+            "text": "June 22, 2018"
+          },
+          "primeminister1": {
+            "text": "Taur Matan Ruak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taur Matan Ruak"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Fernando Hanjam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando Hanjam"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Structure of the VIII Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=13&lang=en",
+          "website": "Government of Timor-Leste",
+          "accessdate": "30 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author1": "\"Gabinete\"",
+          "title": "200 UNTL University Students Participate in CAC Seminar",
+          "url": "http://cac.tl/2014/04/200-untl-university-students-participate-in-cac-seminar-2/",
+          "website": "Anti-Corruption Commission of Timor-Leste",
+          "accessdate": "7 April 2020",
+          "date": "4 April 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Timor-Leste's Eighth Constitutional Government (updated 17 July 2020)",
+          "url": "https://www.laohamutuk.org/misc/gov8/18VIIIGov.htm",
+          "website": "La'o Hamutuk website",
+          "publisher": "La'o Hamutuk: Timor-Leste Institute for Development Monitoring and Analysis",
+          "access-date": "22 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "commonscat-inline"
+        },
+        {
+          "template": "easttimor-politician-stub"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

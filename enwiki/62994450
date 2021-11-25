@@ -1,0 +1,158 @@
+{
+  "title": "Salvador Soares dos Reis Pires",
+  "pageID": 62994450,
+  "categories": [
+    "Government ministers of East Timor",
+    "Independent politicians in East Timor",
+    "Living people",
+    "Year of birth missing (living people)",
+    "21st-century politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salvador Eugénio Soares dos Reis Pires is an East Timorese politician.",
+              "links": [
+                {
+                  "text": "East Timorese",
+                  "type": "internal",
+                  "page": "East Timor"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Salvador Eugénio Soares dos Reis Pires"
+                ]
+              }
+            },
+            {
+              "text": "He is the incumbent Minister of Public Works, serving since June 2018 under the VIII Constitutional Government of East Timor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "VIII Constitutional Government of East Timor"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2020",
+          "template": "engvarb"
+        },
+        {
+          "date": "January 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "6",
+            "date": "22",
+            "df": "y",
+            "template": "start date",
+            "text": "June 22, 2018"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Salvador Soares dos Reis Pires"
+          },
+          "image": {
+            "text": "Salvador Eugénio Soares dos Reis Pires 2019-02-13.jpg"
+          },
+          "caption": {
+            "text": "Pires in 2019"
+          },
+          "party": {
+            "text": "People's Liberation Party",
+            "links": [
+              {
+                "text": "People's Liberation Party",
+                "type": "internal",
+                "page": "People's Liberation Party (East Timor)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Public Works"
+          },
+          "term_start1": {
+            "text": "June 22, 2018"
+          },
+          "primeminister1": {
+            "text": "Taur Matan Ruak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taur Matan Ruak"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Structure of the VIII Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=13&lang=en",
+          "website": "Government of Timor-Leste",
+          "accessdate": "30 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Timor-Leste's Eighth Constitutional Government (updated 17 July 2020)",
+          "url": "https://www.laohamutuk.org/misc/gov8/18VIIIGov.htm",
+          "website": "La'o Hamutuk website",
+          "publisher": "La'o Hamutuk: Timor-Leste Institute for Development Monitoring and Analysis",
+          "access-date": "22 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Salvador Eugénio Soares dos Reis Pires",
+            "Salvador Soares dos Reis Pires"
+          ],
+          "template": "commonscat-inline"
+        },
+        {
+          "template": "facebook"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
