@@ -127,6 +127,11 @@
             "template": "end date",
             "text": "June 2015"
           }
+        },
+        {
+          "text": "Nívio Leite Magalhães",
+          "lan1": "de",
+          "template": "ill"
         }
       ],
       "infoboxes": [
@@ -509,6 +514,32 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Maliana (Verwaltungsamt)",
+          "lan1": "de",
+          "text1": "Maliana Administrative Post",
+          "lt": "Maliana",
+          "template": "ill"
+        },
+        {
+          "text": "Nívio Leite Magalhães",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Sagrada Família (Osttimor)",
+          "lan1": "de",
+          "text1": "Sagrada Família (East Timor)",
+          "lt": "Sagrada Família",
+          "template": "ill"
+        },
+        {
+          "text": "Deutsche Gesellschaft für Technische Zusammenarbeit",
+          "lan1": "de",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "last1": "Trindade",
@@ -716,6 +747,12 @@
         }
       ],
       "templates": [
+        {
+          "text": "Alliance for Change and Progress",
+          "lan1": "de",
+          "text1": "Aliança para Mudança e Progresso",
+          "template": "ill"
+        },
         {
           "template": "clear left"
         }

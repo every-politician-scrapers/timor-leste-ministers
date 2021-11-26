@@ -91,6 +91,11 @@
             "template": "start date",
             "text": "June 22, 2018"
           }
+        },
+        {
+          "text": "José dos Santos Bucar",
+          "lan1": "de",
+          "template": "ill"
         }
       ],
       "infoboxes": [
@@ -287,6 +292,14 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Alliance for Change and Progress",
+          "lan1": "de",
+          "text1": "Aliança para Mudança e Progresso",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "2017 Timor-Leste Parliamentary Election: List of Parliamentary slates from all parties",
@@ -424,6 +437,28 @@
               }
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "José dos Santos Bucar",
+          "lt": "José dos Santos Naimori Bucar",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Kmanek Oan Rai Klaran",
+          "lt": "Kmanek Oan Rai Klaran (KORK)",
+          "lan1": "de",
+          "text1": "Korka",
+          "template": "ill"
+        },
+        {
+          "text": "Gangs in East Timor",
+          "lt": "ritual arts group in East Timor",
+          "lan1": "de",
+          "text1": "Bandenwesen in Osttimor",
+          "template": "ill"
         }
       ]
     },

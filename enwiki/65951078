@@ -67,6 +67,13 @@
           "template": "birth date and age"
         },
         {
+          "text": "Institute of Governance of Home Affairs",
+          "lt": "Institute of Governance of Home Affairs",
+          "lan1": "id",
+          "text1": "Institut Pemerintahan Dalam Negeri",
+          "template": "ill"
+        },
+        {
           "list": [
             "Institute of Governance of Home Affairs",
             "Macquarie University"
@@ -266,6 +273,15 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Institute of Governance of Home Affairs",
+          "lt": "Institute of Governance of Home Affairs",
+          "lan1": "id",
+          "text1": "Institut Pemerintahan Dalam Negeri",
+          "template": "ill"
         }
       ],
       "references": [

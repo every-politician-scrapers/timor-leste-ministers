@@ -56,6 +56,12 @@
           "template": "use dmy dates"
         },
         {
+          "text": "Lacló",
+          "lan1": "de",
+          "text1": "Laclo",
+          "template": "ill"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2018",
@@ -210,6 +216,14 @@
               "text": "In 1999, Costa graduated with a degree in Public Administration."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Lacló",
+          "lan1": "de",
+          "text1": "Laclo",
+          "template": "ill"
         }
       ],
       "references": [
