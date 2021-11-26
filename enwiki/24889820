@@ -119,6 +119,16 @@
           }
         },
         {
+          "text": "Roberto Soares",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Julião da Silva",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2005",
@@ -558,6 +568,14 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "HAK Association",
+          "lt": "HAK",
+          "lan1": "de",
+          "template": "ill"
         }
       ],
       "references": [

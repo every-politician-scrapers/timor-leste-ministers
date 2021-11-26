@@ -82,6 +82,12 @@
           "template": "use dmy dates"
         },
         {
+          "text": "Joaquim Bonifácio do Amaral",
+          "lan1": "de",
+          "lan2": "pt",
+          "template": "ill"
+        },
+        {
           "year": "1968",
           "month": "6",
           "day": "17",

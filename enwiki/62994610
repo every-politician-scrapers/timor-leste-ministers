@@ -228,6 +228,19 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "António Verdial de Sousa",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Alliance for Change and Progress",
+          "lan1": "de",
+          "text1": "Aliança para Mudança e Progresso",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "PEP-KHUNTO hakfodak bareira 4%",

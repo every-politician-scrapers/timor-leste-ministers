@@ -294,6 +294,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Natalino Monteiro",
+          "lan1": "de",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "Natalino Monteiro",
@@ -396,6 +403,21 @@
               "text": "On 24 June 2020, following a change in the governing coalition, and the admission of Fretilin to the VIII Constitutional Government, Maia was sworn in for a further term as Minister of Education, Youth and Sport."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "II UNTAET Transitional Government",
+          "lan1": "de",
+          "text1": "II. Übergangsregierung Osttimors",
+          "template": "ill"
+        },
+        {
+          "text": "José Manuel Fernandes (politician, born 1966)",
+          "lt": "José Manuel Fernandes",
+          "lan1": "de",
+          "text1": "José Manuel Fernandes (Politiker, 1966)",
+          "template": "ill"
         }
       ],
       "references": [

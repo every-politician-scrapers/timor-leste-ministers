@@ -71,6 +71,11 @@
           }
         },
         {
+          "text": "Hernâni Coelho",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
           "list": [
             "Hernâni Coelho",
             "(Petroleum)",
@@ -278,6 +283,19 @@
               "text": "Additionally, the proposal for the Tasi Mane LNG project was sent to the national audit office for re-evaluation."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "East Timor Coffee Institute",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Timor Gap, E.P.",
+          "lan1": "de",
+          "text1": "Timor Gap E.P.",
+          "template": "ill"
         }
       ],
       "references": [
