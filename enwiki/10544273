@@ -84,6 +84,16 @@
                   "page": "National Congress for Timorese Reconstruction"
                 }
               ]
+            },
+            {
+              "text": "He is considered a Centre-left politician.",
+              "links": [
+                {
+                  "text": "Centre-left",
+                  "type": "internal",
+                  "page": "Centre-left politics"
+                }
+              ]
             }
           ]
         }
@@ -269,6 +279,12 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
@@ -392,6 +408,29 @@
                   "page": "Partisan (political)"
                 }
               ]
+            },
+            {
+              "text": "In 2020, Guterres planned to resign and former president Xanana Gusmão would take office, however, he reversed his decision to tackle the Coronavirus Pandemic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xanana Gusmão"
+                },
+                {
+                  "text": "Coronavirus Pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic"
+                }
+              ]
+            },
+            {
+              "text": "Guterres started a coronavirus vaccination campaign in the summer of 2021, addressing the importance of the vaccine."
+            },
+            {
+              "text": "Within the year preceding the campaign, multiple mask mandates were set."
+            },
+            {
+              "text": "He has received generally received praise for his handling of the pandemic, with the number of covid cases in the country significantly dropping after the campaign was launched."
             }
           ]
         }
@@ -428,6 +467,30 @@
           "archive-date": "10 August 2007",
           "template": "citation",
           "type": "citation"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "url": "https://www.theaustralian.com.au/news/feature-fretilin-looms-over-timor-poll/news-story/6e8d22f1287ca8632d9fd608164b63fb",
