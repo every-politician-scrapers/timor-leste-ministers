@@ -93,6 +93,11 @@
           "template": "birth date and age"
         },
         {
+          "text": "Horai-Quic",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2020",

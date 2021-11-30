@@ -56,6 +56,12 @@
           "template": "use dmy dates"
         },
         {
+          "text": "Lacló",
+          "lan1": "de",
+          "text1": "Laclo",
+          "template": "ill"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2018",
