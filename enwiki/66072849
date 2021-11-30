@@ -172,27 +172,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "commonscat-inline"
-        },
-        {
-          "template": "authority control"
-        }
-      ]
     }
   ]
 }

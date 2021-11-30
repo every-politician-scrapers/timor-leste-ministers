@@ -120,39 +120,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Salvador Eugénio Soares dos Reis Pires",
-            "Salvador Soares dos Reis Pires"
-          ],
-          "template": "commonscat-inline"
-        },
-        {
-          "template": "facebook"
-        },
-        {
-          "template": "authority control"
-        }
-      ]
     }
   ]
 }
