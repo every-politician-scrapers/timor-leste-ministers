@@ -86,12 +86,6 @@
             "template": "start date",
             "text": "July 9, 2018"
           }
-        },
-        {
-          "text": "José Agostinho Sequeira",
-          "lt": "Agostinho Sequeira Somotxo",
-          "lan1": "de",
-          "template": "ill"
         }
       ],
       "infoboxes": [
@@ -160,7 +154,19 @@
             ]
           },
           "predecessor1": {
-            "text": "José Agostinho Sequeira"
+            "text": "Agostinho Sequeira Somotxo",
+            "links": [
+              {
+                "text": "Agostinho Sequeira ''Somotxo''",
+                "type": "internal",
+                "page": "José Agostinho Sequeira"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Somotxo"
+              ]
+            }
           },
           "spouse": {
             "text": "Maria José dos Mártires de Carvalho"
