@@ -41,6 +41,10 @@
       ],
       "templates": [
         {
+          "description": "A human rights lawyer",
+          "template": "short description"
+        },
+        {
           "year": "1967",
           "month": "4",
           "day": "16",
