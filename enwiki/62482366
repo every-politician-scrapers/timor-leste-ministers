@@ -3,6 +3,7 @@
   "pageID": 62482366,
   "categories": [
     "Government ministers of East Timor",
+    "Justice ministers of East Timor",
     "Independent politicians in East Timor",
     "Living people",
     "Year of birth missing (living people)",
@@ -34,6 +35,11 @@
               "text": "He is the incumbent Minister of Justice, serving under the VIII Constitutional Government of East Timor led by Taur Matan Ruak.",
               "links": [
                 {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Minister of Justice (East Timor)"
+                },
+                {
                   "type": "internal",
                   "page": "VIII Constitutional Government of East Timor"
                 },
@@ -60,17 +66,6 @@
           "lan1": "de",
           "text1": "Laclo",
           "template": "ill"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2018",
-            "month": "6",
-            "date": "22",
-            "df": "y",
-            "template": "start date",
-            "text": "June 22, 2018"
-          }
         }
       ],
       "infoboxes": [
@@ -122,10 +117,17 @@
             ]
           },
           "office1": {
-            "text": "Minister of Justice"
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Minister of Justice (East Timor)"
+              }
+            ]
           },
           "term_start1": {
-            "text": "June 22, 2018"
+            "text": "22 June 2018"
           },
           "primeminister1": {
             "text": "Taur Matan Ruak",
