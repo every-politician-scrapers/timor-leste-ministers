@@ -2,6 +2,7 @@
   "title": "Pedro dos Reis",
   "pageID": 66072849,
   "categories": [
+    "Agriculture ministers of East Timor",
     "Kmanek Haburas Unidade Nasional Timor Oan politicians",
     "Government ministers of East Timor",
     "Living people",
@@ -106,7 +107,14 @@
             ]
           },
           "office1": {
-            "text": "Minister of Agriculture and Fisheries"
+            "text": "Minister of Agriculture and Fisheries",
+            "links": [
+              {
+                "text": "Minister of Agriculture and Fisheries",
+                "type": "internal",
+                "page": "Minister of Agriculture and Fisheries (East Timor)"
+              }
+            ]
           },
           "term_start1": {
             "text": "June 24, 2020"
