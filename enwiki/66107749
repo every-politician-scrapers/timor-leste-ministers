@@ -2,9 +2,11 @@
   "title": "Víctor da Conceição Soares",
   "pageID": 66107749,
   "categories": [
+    "Bandung Institute of Technology alumni",
     "Fretilin politicians",
     "Government ministers of East Timor",
     "Living people",
+    "University of Évora alumni",
     "Year of birth missing (living people)",
     "21st-century politicians"
   ],
@@ -38,6 +40,11 @@
               "text": "He is the incumbent Minister of Petroleum and Minerals, serving since June 2020 under the VIII Constitutional Government of East Timor led by Taur Matan Ruak.",
               "links": [
                 {
+                  "text": "Minister of Petroleum and Minerals",
+                  "type": "internal",
+                  "page": "Minister of Petroleum and Minerals (East Timor)"
+                },
+                {
                   "type": "internal",
                   "page": "VIII Constitutional Government of East Timor"
                 },
@@ -60,15 +67,19 @@
           "template": "use dmy dates"
         },
         {
-          "template": "date",
-          "data": {
-            "year": "2020",
-            "month": "6",
-            "date": "24",
-            "df": "y",
-            "template": "start date",
-            "text": "June 24, 2020"
-          }
+          "text": "Widya Karya Catholic University",
+          "lan1": "id",
+          "text1": "Universitas Katolik Widya Karya",
+          "template": "ill"
+        },
+        {
+          "list": [
+            "Bandung Institute of Technology",
+            "Widya Karya Catholic University",
+            "Nagaoka University of Technology",
+            "University of Évora"
+          ],
+          "template": "ubl"
         },
         {
           "list": [
@@ -78,28 +89,6 @@
             "(Mineral Resources)"
           ],
           "template": "ubl"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2006",
-            "month": "7",
-            "date": "10",
-            "df": "y",
-            "template": "start date",
-            "text": "July 10, 2006"
-          }
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2007",
-            "month": "8",
-            "date": "8",
-            "df": "y",
-            "template": "end date",
-            "text": "August 8, 2007"
-          }
         },
         {
           "list": [
@@ -122,6 +111,27 @@
           "caption": {
             "text": "Soares in 2020"
           },
+          "birth_place": {
+            "text": "Baucau, Portuguese Timor\n(now East Timor)",
+            "links": [
+              {
+                "text": "Baucau",
+                "type": "internal",
+                "page": "Baucau Municipality"
+              },
+              {
+                "type": "internal",
+                "page": "Portuguese Timor"
+              },
+              {
+                "type": "internal",
+                "page": "East Timor"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Bandung Institute of Technology\n\nWidya Karya Catholic University\n\nNagaoka University of Technology\n\nUniversity of Évora"
+          },
           "party": {
             "text": "Fretilin",
             "links": [
@@ -132,10 +142,17 @@
             ]
           },
           "office1": {
-            "text": "Minister of Petroleum and Minerals"
+            "text": "Minister of Petroleum and Minerals",
+            "links": [
+              {
+                "text": "Minister of Petroleum and Minerals",
+                "type": "internal",
+                "page": "Minister of Petroleum and Minerals (East Timor)"
+              }
+            ]
           },
           "term_start1": {
-            "text": "June 24, 2020"
+            "text": "24 June 2020"
           },
           "primeminister1": {
             "text": "Taur Matan Ruak",
@@ -153,10 +170,10 @@
             "text": "Vice Minister for Technical and Higher Education"
           },
           "term_start2": {
-            "text": "July 10, 2006"
+            "text": "10 July 2006"
           },
           "term_end2": {
-            "text": "August 8, 2007"
+            "text": "8 August 2007"
           },
           "primeminister2": {
             "text": "José Ramos-Horta\n\n(to 19 May 2007)\n\nEstanislau da Silva\n\n(from 19 May 2007)"
