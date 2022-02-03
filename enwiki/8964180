@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "José Maria Vasconcelos (born 10 October 1956), popularly known by his nom de guerre Taur Matan Ruak (Tetum for \"Two Sharp Eyes\"), is an East Timorese politician who has served as the Prime Minister of East Timor since 22 June 2018.",
+              "text": "José Maria Vasconcelos (born 10 October 1956), popularly known by his nom de guerre Taur Matan Ruak (Tetum for \"Two Sharp Eyes\"), is an East Timorese politician who has served as the prime minister of East Timor since 22 June 2018.",
               "links": [
                 {
                   "text": "nom de guerre",
@@ -37,6 +37,7 @@
                   "page": "East Timor"
                 },
                 {
+                  "text": "prime minister of East Timor",
                   "type": "internal",
                   "page": "Prime Minister of East Timor"
                 }
