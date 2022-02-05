@@ -93,6 +93,13 @@
           }
         },
         {
+          "year": "1973",
+          "month": "05",
+          "day": "18",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
           "text": "José dos Santos Bucar",
           "lan1": "de",
           "template": "ill"
@@ -189,6 +196,9 @@
           "term_end3": {
             "text": "2018",
             "number": 2018
+          },
+          "birth_date": {
+            "text": "May 18, 1973"
           },
           "party": {
             "text": "KHUNTO",
