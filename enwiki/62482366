@@ -54,6 +54,10 @@
       ],
       "templates": [
         {
+          "description": "East Timorese politician",
+          "template": "short description"
+        },
+        {
           "date": "November 2019",
           "template": "engvarb"
         },
