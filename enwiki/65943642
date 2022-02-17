@@ -7,8 +7,8 @@
     "Government ministers of East Timor",
     "Living people",
     "Members of the National Parliament (East Timor)",
-    "Year of birth missing (living people)",
-    "21st-century politicians"
+    "21st-century politicians",
+    "1956 births"
   ],
   "sections": [
     {
@@ -61,18 +61,18 @@
           "template": "short description"
         },
         {
+          "list": [
+            "José Reis"
+          ],
+          "template": "other people"
+        },
+        {
           "date": "November 2020",
           "template": "engvarb"
         },
         {
           "date": "November 2020",
           "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "José Reis"
-          ],
-          "template": "other people"
         },
         {
           "template": "date",
