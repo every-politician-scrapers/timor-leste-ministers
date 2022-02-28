@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Odete Maria de Freitas Belo (born 10 October 1973 in Baucau, Portuguese Timor) is an East Timorese doctor and politician.",
+              "text": "Odete Maria de Freitas Belo (born 22 February 1973 in Baucau, Portuguese Timor) is an East Timorese doctor and politician.",
               "links": [
                 {
                   "type": "internal",
@@ -53,6 +53,13 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Odete Maria.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odete_Maria.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odete_Maria.jpg"
+        }
+      ],
       "templates": [
         {
           "date": "July 2020",
@@ -69,10 +76,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Odete Maria de Freitas Belo"
-          },
-          "image": {
-            "text": "File:2019-06-25 Odete Maria Belo.jpg"
+            "text": "Odete Maria Freitas Belo"
           },
           "birth_date": {
             "text": "October 10, 1973"
@@ -132,6 +136,9 @@
           },
           "profession": {
             "text": "Doctor"
+          },
+          "image": {
+            "text": "file:Odete Maria.jpg"
           }
         }
       ]
