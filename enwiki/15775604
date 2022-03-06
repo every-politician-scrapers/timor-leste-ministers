@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Aniceto Guterres Lopes (born April 16, 1967 in Tapo, East Timor is a Timorese politician and human rights lawyer.",
+              "text": "Aniceto Guterres Lopes (born April 16, 1967 in Tapo, East Timor is an East Timorese politician and human rights lawyer.",
               "links": [
                 {
                   "text": "Tapo",
@@ -41,7 +41,7 @@
       ],
       "templates": [
         {
-          "description": "Timorese politician and human rights lawyer",
+          "description": "East Timorese politician and human rights lawyer",
           "template": "short description"
         },
         {
