@@ -1,149 +1,17 @@
 {
-  "title": "Aniceto Guterres Lopes",
-  "pageID": 15775604,
-  "categories": [
-    "1967 births",
-    "Living people",
-    "Presidents of the National Parliament (East Timor)",
-    "East Timorese lawyers",
-    "Ramon Magsaysay Award winners",
-    "People from Bobonaro District",
-    "Fretilin politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aniceto Guterres Lopes (born April 16, 1967 in Tapo, East Timor is an East Timorese politician and human rights lawyer.",
-              "links": [
-                {
-                  "text": "Tapo",
-                  "type": "internal",
-                  "page": "Tapo (village)"
-                },
-                {
-                  "type": "internal",
-                  "page": "East Timor"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Aniceto Guterres Lopes"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "East Timorese politician and human rights lawyer",
-          "template": "short description"
-        },
-        {
-          "year": "1967",
-          "month": "4",
-          "day": "16",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aniceto Guterres Lopes"
-          },
-          "image": {
-            "text": "2017-09-27 Aniceto Guterres Lopes portrait.jpg"
-          },
-          "caption": {
-            "text": "Aniceto Guterres Lopes in 2017"
-          },
-          "birth_date": {
-            "text": "April 16, 1967"
-          },
-          "birth_place": {
-            "text": "Maliana, Bobonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maliana"
-              },
-              {
-                "text": "Bobonaro",
-                "type": "internal",
-                "page": "Bobonaro District"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of the National Parliament",
-            "links": [
-              {
-                "text": "National Parliament",
-                "type": "internal",
-                "page": "National Parliament of East Timor"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "19 May 2020"
-          },
-          "predecessor1": {
-            "text": "Arão Noé da Costa Amaral",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arão Noé da Costa Amaral"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "5 September 2017"
-          },
-          "term_end2": {
-            "text": "2018",
-            "number": 2018
-          },
-          "predecessor2": {
-            "text": "Adérito Hugo da Costa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adérito Hugo da Costa"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Arão Noé da Costa Amaral",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arão Noé da Costa Amaral"
-              }
-            ]
-          },
-          "party": {
-            "text": "Fretilin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fretilin"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "East Timorese"
-          },
-          "occupation": {
-            "text": "lawyer"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aniceto Guterres Lopes",
+  "image": "2017-09-27 Aniceto Guterres Lopes portrait.jpg",
+  "caption": "Aniceto Guterres Lopes in 2017",
+  "birth_date": "April 16, 1967",
+  "birth_place": "Maliana, Bobonaro",
+  "office1": "President of the National Parliament",
+  "term_start1": "19 May 2020",
+  "predecessor1": "Arão Noé da Costa Amaral",
+  "term_start2": "5 September 2017",
+  "term_end2": "2018",
+  "predecessor2": "Adérito Hugo da Costa",
+  "successor2": "Arão Noé da Costa Amaral",
+  "party": "Fretilin",
+  "nationality": "East Timorese",
+  "occupation": "lawyer"
 }
