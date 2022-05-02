@@ -1,5 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
-Q111362310,Tiago Amaral Sarmento,Tiago Amaral Sarmento,male,,,,,Q109733780,Minister of Justice,2022-03-22,Q111362310-1BD03742-C813-4E32-8E39-2134EC2D6104
+Q111362310,Tiago Amaral Sarmento,Tiago Amaral Sarmento,male,,,http://timor-leste.gov.tl/?p=13&lang=en,2022-05-02,Q109733780,Minister of Justice,2022-03-22,Q111362310-1BD03742-C813-4E32-8E39-2134EC2D6104
 Q15783985,Armindo Maia,Armindo Maia,male,2000-01-01,7,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733874,"Minister of Education, Youth and Sports",2020-06-24,Q15783985-58116CC8-05F2-47FD-9F33-FF735D81F574
 Q15906407,Francisco Martins da Costa Pereira Jerónimo,Francisco Martins da Costa Pereira Jerónimo,male,1963-04-18,11,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733853,Minister of Parliamentary Affairs and Social Communication,2020-05-29,Q15906407-292325A1-328F-477C-8453-B98241CD0E12
 Q15907034,Joaquim Amaral,Joaquim Amaral,male,1968-06-17,11,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733849,Coordinating Minister of Economic Affairs,2020-06-24,Q15907034-A65C41C3-82E6-4274-8503-1F763E825DA3
@@ -9,7 +9,7 @@ Q28465884,Fidelis Manuel Leite Magalhães,Fidelis Leite Magalhães,male,1980-01-
 Q33638236,Armanda Berta dos Santos,Armanda Berta dos Santos,female,1974-10-11,11,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733821,Vice Prime Minister,2020-05-29,Q33638236-36ACF5F7-0443-460C-B362-DF5D918BD88E
 Q33638236,Armanda Berta dos Santos,Armanda Berta dos Santos,female,1974-10-11,11,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733877,Minister of Social Solidarity and Inclusion,2018-06-22,Q33638236-C1F179FE-1F6E-4751-9B42-2C31D366640E
 Q348268,Adaljiza Albertina Xavier Reis Magno,Adaljíza Magno,female,1975-01-07,11,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733888,Minister of Foreign Affairs and Cooperation,2020-06-24,Q348268-7B35C270-C1B5-47BC-9370-99CC0698F007
-Q35711045,Abel Pires,Abel Pires,male,1976-05-24,11,,,Q109733748,Minister of Public Works,2022-03-22,Q35711045-E4D4E279-6940-4073-AAA5-602E89555FC8
+Q35711045,Abel Pires da Silva,Abel Pires,male,1976-05-24,11,http://timor-leste.gov.tl/?p=13&lang=en,2022-05-02,Q109733748,Minister of Public Works,2022-03-22,Q35711045-E4D4E279-6940-4073-AAA5-602E89555FC8
 Q38956129,"Júlio Sarmento da Costa ""Meta Mali""",Júlio Sarmento da Costa,male,1959-01-01,9,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733799,Minister for the Affairs of National Liberation Combatants,2020-05-29,Q38956129-79863193-DF64-4202-9F20-E3CD74016894
 Q39756636,José Maria dos Reis,José Reis,male,1956-02-05,11,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733824,Minister of Planning and Territory,2020-06-24,Q39756636-0953013B-C64A-4651-BCF1-040FAC3F31EA
 Q39756636,José Maria dos Reis,José Reis,male,1956-02-05,11,http://timor-leste.gov.tl/?p=13&lang=en,2021-11-25,Q109733821,Vice Prime Minister,2020-06-24,Q39756636-9A7641C4-57D6-4BB5-96F7-D8C757CFAED3
