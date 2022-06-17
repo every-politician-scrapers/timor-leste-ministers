@@ -1,10 +1,10 @@
-@@,itemlabel,item,startdate,enddate
-->,Estanislau da Silva->Estanislau Aleixo da Silva,Q727119,2001-09-20,2007-05-19->2002-05-20
-+++,Estanislau Aleixo da Silva,Q727119,2002-05-20,2006-07-10
-+++,Estanislau Aleixo da Silva,Q727119,2006-07-10,2007-05-19
-->,Mariano Sabino Lopes->Mariano Assanami Sabino,Q1897008,2007-08-08,2015-02-16->2012-08-08
-+++,Mariano Assanami Sabino,Q1897008,2012-08-08,2015-02-16
-->,Estanislau da Silva->Estanislau Aleixo da Silva,Q727119,2015-02-16,2018-06-22->2017-09-15
-+++,Estanislau Aleixo da Silva,Q727119,2017-09-15,2018-06-22
-->,Joaquim Gusmão Martins->Joaquim José Gusmão dos Reis Martins,Q60674484,2018-06-22,2020-05-29
-->,Pedro dos Reis,Q95691949,2020-06-24->2020-05-29,
+@@,item,itemlabel,startdate,enddate
+->,Q727119,Estanislau da Silva->Estanislau Aleixo da Silva,2001-09-20,2007-05-19->2002-05-20
++++,Q727119,Estanislau Aleixo da Silva,2002-05-20,2006-07-10
++++,Q727119,Estanislau Aleixo da Silva,2006-07-10,2007-05-19
+->,Q1897008,Mariano Sabino Lopes->Mariano Assanami Sabino,2007-08-08,2015-02-16->2012-08-08
++++,Q1897008,Mariano Assanami Sabino,2012-08-08,2015-02-16
+->,Q727119,Estanislau da Silva->Estanislau Aleixo da Silva,2015-02-16,2018-06-22->2017-09-15
++++,Q727119,Estanislau Aleixo da Silva,2017-09-15,2018-06-22
+->,Q60674484,Joaquim Gusmão Martins->Joaquim José Gusmão dos Reis Martins,2018-06-22,2020-05-29
+->,Q95691949,Pedro dos Reis,2020-06-24->2020-05-29,

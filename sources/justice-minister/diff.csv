@@ -1,11 +1,10 @@
-@@,itemlabel,item,startdate,enddate
-->,António Duarte->António Duarte Carvarino Mau Lear,Q610826,1975-12-01,1975-12-17
-->,Gita Honwana-Welch,Q55767739,2000-07-12->2000-07-15,2001-09-20
-->,Ana Pessoa Pinto->Ana Maria Pessoa,Q483054,2001-09-20,2003-03-19->2002-05-20
-+++,Ana Maria Pessoa,Q483054,2002-05-20,2003-03-19
-->,Domingos Maria Sarmento->Domingos Sarmento,Q15906169,2003-03-19,2007-08-08->2006-07-10
-+++,Domingos Sarmento,Q15906169,2006-07-10,2007-05-19
-+++,Domingos Sarmento,Q15906169,2007-05-19,2007-08-08
-->,Ivo Jorge Valente->Ivo Valente,Q1675775,2012-03,2012-08-08
-->,Ivo Jorge Valente->Ivo Valente,Q1675775,2015-02-16,2017-10-03
-->,Ângela Carrascalão->Maria Ângela Guterres Viegas Carrascalão,Q41866107,2017-10-03,2018-06-22
+@@,item,itemlabel,startdate,enddate
+->,Q55767739,Gita Honwana-Welch,2000-07-12->2000-07-15,2001-09-20
+->,Q483054,Ana Pessoa Pinto->Ana Maria Pessoa,2001-09-20,2003-03-19->2002-05-20
++++,Q483054,Ana Maria Pessoa,2002-05-20,2003-03-19
+->,Q15906169,Domingos Maria Sarmento->Domingos Sarmento,2003-03-19,2007-08-08->2006-07-10
++++,Q15906169,Domingos Sarmento,2006-07-10,2007-05-19
++++,Q15906169,Domingos Sarmento,2007-05-19,2007-08-08
+->,Q1675775,Ivo Jorge Valente->Ivo Valente,2012-03,2012-08-08
+->,Q1675775,Ivo Jorge Valente->Ivo Valente,2015-02-16,2017-10-03
+->,Q41866107,Ângela Carrascalão->Maria Ângela Guterres Viegas Carrascalão,2017-10-03,2018-06-22
