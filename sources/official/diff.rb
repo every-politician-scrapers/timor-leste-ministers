@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 # Skip junior ministers for now
 # TODO: make sure all are included
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   SKIP = /^(Vice Minister|Secretary of State|State Secretary)/
 
   def wikidata
