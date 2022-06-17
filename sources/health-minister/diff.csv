@@ -1,6 +1,6 @@
-@@,itemlabel,item,startdate,enddate
-->,Rui Maria de Araújo,Q1647887,2001-09-20,2007-08-08->2002-05-20
-+++,Rui Maria de Araújo,Q1647887,2002-05-20,2006-07-10
-+++,Rui Maria de Araújo,Q1647887,2006-07-10,2007-05-19
-+++,Rui Maria de Araújo,Q1647887,2007-05-19,2007-08-08
-->,Maria do Céu Sarmento->Maria do Céu Sarmento Pina da Costa,Q15833898,2015-02-16,2017-09-15
+@@,item,itemlabel,startdate,enddate
+->,Q1647887,Rui Maria de Araújo,2001-09-20,2007-08-08->2002-05-20
++++,Q1647887,Rui Maria de Araújo,2002-05-20,2006-07-10
++++,Q1647887,Rui Maria de Araújo,2006-07-10,2007-05-19
++++,Q1647887,Rui Maria de Araújo,2007-05-19,2007-08-08
+->,Q15833898,Maria do Céu Sarmento->Maria do Céu Sarmento Pina da Costa,2015-02-16,2017-09-15

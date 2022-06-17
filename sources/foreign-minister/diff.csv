@@ -1,9 +1,9 @@
-@@,itemlabel,item,startdate,enddate
-->,José Ramos-Horta,Q11665,2000-07-12->2000-07-15,2001-03-31
-->,José Ramos-Horta,Q11665,2001-07-15,2006-07-10->2001-09-20
-+++,José Ramos-Horta,Q11665,2001-09-20,2002-05-20
-+++,José Ramos-Horta,Q11665,2002-05-20,2006-07-10
-->,Adaljíza Magno->Adalgiza Magno,Q348268,2007-05-19,2007-08-08
-->,Aurélio Guterres->Aurélio Sérgio Cristóvão Guterres,Q40013553,2017-09-15,2018-06-22
-->,Dionísio Babo Soares->Dionísio da Costa Babo Soares,Q1227031,2018-06-22,2020-05-25
-->,Adaljíza Magno->Adaljíza Albertina Xavier Reis Magno,Q348268,2020-06-24,
+@@,item,itemlabel,startdate,enddate
+->,Q11665,José Ramos-Horta,2000-07-12->2000-07-15,2001-03-31
+->,Q11665,José Ramos-Horta,2001-07-15,2006-07-10->2001-09-20
++++,Q11665,José Ramos-Horta,2001-09-20,2002-05-20
++++,Q11665,José Ramos-Horta,2002-05-20,2006-07-10
+->,Q348268,Adaljíza Magno->Adalgiza Magno,2007-05-19,2007-08-08
+->,Q40013553,Aurélio Guterres->Aurélio Sérgio Cristóvão Guterres,2017-09-15,2018-06-22
+->,Q1227031,Dionísio Babo Soares->Dionísio da Costa Babo Soares,2018-06-22,2020-05-25
+->,Q348268,Adaljíza Magno->Adaljíza Albertina Xavier Reis Magno,2020-06-24,
