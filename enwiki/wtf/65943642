@@ -1,0 +1,585 @@
+{
+  "title": "José Reis (politician)",
+  "pageID": 65943642,
+  "categories": [
+    "Deputy Prime Ministers of East Timor",
+    "Fretilin politicians",
+    "Government ministers of East Timor",
+    "Living people",
+    "Members of the National Parliament (East Timor)",
+    "21st-century politicians",
+    "1956 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Maria dos Reis is an East Timorese politician, and a member of the Fretilin political party.",
+              "links": [
+                {
+                  "text": "East Timorese",
+                  "type": "internal",
+                  "page": "East Timor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fretilin"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Maria dos Reis"
+                ]
+              }
+            },
+            {
+              "text": "He is the more junior of East Timor's two incumbent Deputy Prime Ministers, and also the incumbent Minister of Planning and Territory, serving since June 2020 under the VIII Constitutional Government of East Timor led by Taur Matan Ruak.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "VIII Constitutional Government of East Timor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taur Matan Ruak"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he served as a Minister, and as a Secretary of State, in earlier Constitutional Governments."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "East Timorese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "José Reis"
+          ],
+          "template": "other people"
+        },
+        {
+          "date": "November 2020",
+          "template": "engvarb"
+        },
+        {
+          "date": "November 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "6",
+            "date": "24",
+            "df": "y",
+            "template": "start date",
+            "text": "June 24, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "6",
+            "date": "24",
+            "df": "y",
+            "template": "start date",
+            "text": "June 24, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "10",
+            "date": "3",
+            "df": "y",
+            "template": "start date",
+            "text": "October 3, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "6",
+            "date": "22",
+            "df": "y",
+            "template": "end date",
+            "text": "June 22, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2005",
+            "month": "7",
+            "date": "26",
+            "df": "y",
+            "template": "start date",
+            "text": "July 26, 2005"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2007",
+            "month": "8",
+            "date": "8",
+            "df": "y",
+            "template": "end date",
+            "text": "August 8, 2007"
+          }
+        },
+        {
+          "year": "1956",
+          "month": "02",
+          "day": "05",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "José Maria dos Reis"
+          },
+          "image": {
+            "text": "2020-06-27 José Reis.jpg"
+          },
+          "caption": {
+            "text": "Reis in 2020"
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of East Timor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of East Timor"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "June 24, 2020"
+          },
+          "alongside1": {
+            "text": "Armanda Berta dos Santos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armanda Berta dos Santos"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Taur Matan Ruak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taur Matan Ruak"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Office re-established",
+            "formatting": {
+              "italic": [
+                "Office re-established"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Minister of Planning and Territory"
+          },
+          "term_start2": {
+            "text": "June 24, 2020"
+          },
+          "primeminister2": {
+            "text": "Taur Matan Ruak"
+          },
+          "predecessor2": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "office3": {
+            "text": "Deputy Minister of the Prime Minister for Governance Affairs"
+          },
+          "term_start3": {
+            "text": "October 3, 2017"
+          },
+          "term_end3": {
+            "text": "June 22, 2018"
+          },
+          "primeminister3": {
+            "text": "Mari Alkatiri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mari Alkatiri"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Office abolished",
+            "formatting": {
+              "italic": [
+                "Office abolished"
+              ]
+            }
+          },
+          "office4": {
+            "text": "Secretary of State for the Coordination of Region I (Lautem, Viqueque and Baucau)"
+          },
+          "term_start4": {
+            "text": "July 26, 2005"
+          },
+          "term_end4": {
+            "text": "August 8, 2007"
+          },
+          "primeminister4": {
+            "text": "Mari Alkatiri <Small>(to 26 June 2006) José Ramos-Horta (26 June 2006–19 May 2007) Estanislau da Silva (from 19 May 2007)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Ramos-Horta"
+              },
+              {
+                "type": "internal",
+                "page": "Estanislau da Silva"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor4": {
+            "text": "Office abolished",
+            "formatting": {
+              "italic": [
+                "Office abolished"
+              ]
+            }
+          },
+          "office5": {
+            "text": "Member of the National Parliament",
+            "links": [
+              {
+                "text": "National Parliament",
+                "type": "internal",
+                "page": "National Parliament (East Timor)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end5": {
+            "text": "2005",
+            "number": 2005
+          },
+          "birth_date": {
+            "text": "February 5, 1956"
+          },
+          "party": {
+            "text": "Fretilin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fretilin"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Reis is a member of a noble family from Bucoli in the Baucau Municipality of East Timor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bucoli"
+                },
+                {
+                  "type": "internal",
+                  "page": "Baucau Municipality"
+                }
+              ]
+            },
+            {
+              "text": "During the Indonesian occupation of East Timor, he worked as an official in the Indonesian Ministry of Foreign Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Indonesian occupation of East Timor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "According to Australian author Jill Joliffe, Reis's older brother, Vicente, \"... was one of a group of radical students who ... studied in Portugal and [fell] under the influence of Marxist-Leninist ideas. Yet he [was] never ... connected with fanaticism, nor with the ill-treatment of alleged dissidents ... On the contrary, there [are] many stories of his role as a gentle teacher behind guerilla lines, and he ... died a lingering death from untreated wounds ...\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Jolliffe",
+          "first1": "Jill",
+          "title": "Finding Santana: A perilous journey in search of an East Timorese guerilla hero",
+          "date": "2011",
+          "publisher": "Wakefield Press",
+          "location": "Kent Town, South Australia",
+          "isbn": "9781862549258",
+          "page": "104",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Reis is a long time member of Fretilin."
+            },
+            {
+              "text": "In 2001, he was elected as a Fretilin candidate to the Constituent Assembly of East Timor, from which the National Parliament emerged in 2002.",
+              "links": [
+                {
+                  "text": "National Parliament",
+                  "type": "internal",
+                  "page": "National Parliament (East Timor)"
+                }
+              ]
+            },
+            {
+              "text": "On 26 July 2005, he was sworn in as the Secretary of State for the Coordination of Region I (Lautem, Viqueque and Baucau)."
+            },
+            {
+              "text": "He held that office until 8 August 2007."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Reis's house was burned to the ground during the 2006 East Timorese crisis.",
+              "links": [
+                {
+                  "text": "2006 East Timorese crisis",
+                  "type": "internal",
+                  "page": "2006 East Timorese crisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 3 October 2017, Reis was sworn in as Deputy Minister of the Prime Minister for Governance Affairs in the VII Constitutional Government.",
+              "links": [
+                {
+                  "text": "VII Constitutional Government",
+                  "type": "internal",
+                  "page": "VII Constitutional Government of East Timor"
+                }
+              ]
+            },
+            {
+              "text": "He remained in that office until the formation of the VIII Constitutional Government on 22 June 2018.",
+              "links": [
+                {
+                  "text": "VIII Constitutional Government",
+                  "type": "internal",
+                  "page": "VIII Constitutional Government of East Timor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following a change in the governing coalition, and the admission of Fretilin to the VIII Constitutional Government, Reis was sworn in as Deputy Prime Minister and Minister of Planning and Territory on 24 June 2020."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "LISTA ALFABÉTICA DOS DEPUTADOS",
+          "url": "http://www.parlamento.tl/LISTA_ALF.htm",
+          "website": "National Parliament of East Timor",
+          "access-date": "27 November 2020",
+          "archive-url": "https://web.archive.org/web/20070928024904/http://www.parlamento.tl/LISTA%20ALF.htm",
+          "archive-date": "28 September 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Maynard",
+          "first1": "Roger",
+          "title": "Australian troops patrol East Timor capital",
+          "url": "https://www.theguardian.com/world/2006/jun/28/easttimor",
+          "access-date": "27 November 2020",
+          "work": "The Guardian",
+          "date": "28 June 2006",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "PR timorense assina novo decreto de nomeação membros do Governo, mais duas mulheres",
+          "trans-title": "Timorese President signs new decree to appoint members of the Government, plus two women",
+          "url": "https://www.dn.pt/lusa/pr-timorense-assina-novo-decreto-de-nomeacao-membros-do-governo-mais-duas-mulheres-8814417.html",
+          "access-date": "27 November 2020",
+          "work": "Diário de Notícias",
+          "agency": "Lusa",
+          "date": "2 October 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Transitional Ministerial Administration",
+          "url": "http://timor-leste.gov.tl/?p=19931&lang=en",
+          "website": "Government of Timor-Leste",
+          "access-date": "27 November 2020",
+          "date": "25 June 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "I Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=129&lang=en",
+          "website": "Government of Timor-Leste",
+          "access-date": "27 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "II Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=130&lang=en",
+          "website": "Government of Timor-Leste",
+          "access-date": "3 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "III Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=132&lang=en&lang=en",
+          "website": "Government of Timor-Leste",
+          "access-date": "27 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Gusmao sworn in as East Timor PM",
+          "url": "http://news.bbc.co.uk/2/hi/asia-pacific/6936181.stm",
+          "website": "BBC News",
+          "access-date": "27 November 2020",
+          "date": "8 August 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Swearing-In and organic structure of the Eight Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=24746&lang=en&n=1",
+          "website": "Government of Timor-Leste",
+          "date": "24 June 2020",
+          "access-date": "26 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Timor-Leste's Eighth Constitutional Government (updated 17 July 2020)",
+          "url": "https://www.laohamutuk.org/misc/gov8/18VIIIGov.htm",
+          "website": "La'o Hamutuk website",
+          "publisher": "La'o Hamutuk: Timor-Leste Institute for Development Monitoring and Analysis",
+          "access-date": "22 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "José Reis"
+          ],
+          "template": "commons category-inline"
+        },
+        {
+          "id": "vpm.mpoJoseReis",
+          "name": "José Reis",
+          "template": "facebook"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "– official page of the Deputy Prime Minister"
+          }
+        ]
+      ]
+    }
+  ]
+}

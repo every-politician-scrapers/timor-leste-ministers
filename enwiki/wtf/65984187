@@ -1,0 +1,406 @@
+{
+  "title": "Joaquim Amaral",
+  "pageID": 65984187,
+  "categories": [
+    "Ambassadors of East Timor to Thailand",
+    "Fretilin politicians",
+    "Government ministers of East Timor",
+    "Living people",
+    "Members of the National Parliament (East Timor)",
+    "1968 births",
+    "21st-century politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "This article is about the East Timorese politician and diplomat."
+            },
+            {
+              "text": "For the Brazilian politician and coffee producer, see Joaquim Bonifácio do Amaral"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Joaquim Amaral (born 17 June 1968) is an East Timorese politician and diplomat, and a member of the Fretilin political party.",
+              "links": [
+                {
+                  "text": "East Timorese",
+                  "type": "internal",
+                  "page": "East Timor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fretilin"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joaquim Amaral"
+                ]
+              }
+            },
+            {
+              "text": "He is the incumbent Coordinating Minister of Economic Affairs, serving since June 2020 under the VIII Constitutional Government of East Timor led by Taur Matan Ruak.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "VIII Constitutional Government of East Timor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taur Matan Ruak"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he served as East Timorese Ambassador to Thailand, and as a Member of the National Parliament of East Timor.",
+              "links": [
+                {
+                  "text": "National Parliament of East Timor",
+                  "type": "internal",
+                  "page": "National Parliament (East Timor)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2020",
+          "template": "engvarb"
+        },
+        {
+          "date": "November 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "text": "Joaquim Bonifácio do Amaral",
+          "lan1": "de",
+          "lan2": "pt",
+          "template": "ill"
+        },
+        {
+          "year": "1968",
+          "month": "6",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "6",
+            "date": "24",
+            "df": "y",
+            "template": "start date",
+            "text": "June 24, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2015",
+            "month": "11",
+            "template": "start date",
+            "text": "November 2015"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "1",
+            "template": "end date",
+            "text": "January 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2001",
+            "template": "start date",
+            "text": "2001"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2012",
+            "template": "start date",
+            "text": "2012"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Joaquim Amaral"
+          },
+          "image": {
+            "text": "2020-08-15 Joaquim Amaral.jpg"
+          },
+          "caption": {
+            "text": "Amaral in 2020"
+          },
+          "birth_date": {
+            "text": "June 17, 1968"
+          },
+          "birth_place": {
+            "text": "Viqueque, Portuguese Timor\n(now East Timor)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viqueque"
+              },
+              {
+                "type": "internal",
+                "page": "Portuguese Timor"
+              },
+              {
+                "type": "internal",
+                "page": "East Timor"
+              }
+            ]
+          },
+          "party": {
+            "text": "Fretilin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fretilin"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Coordinating Minister of Economic Affairs"
+          },
+          "term_start1": {
+            "text": "June 24, 2020"
+          },
+          "primeminister1": {
+            "text": "Taur Matan Ruak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taur Matan Ruak"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "office2": {
+            "text": "East Timorese Ambassador to Thailand",
+            "links": [
+              {
+                "text": "East Timorese Ambassador to Thailand",
+                "type": "internal",
+                "page": "List of ambassadors of East Timor to Thailand"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 2015"
+          },
+          "term_end2": {
+            "text": "January 2020"
+          },
+          "office3": {
+            "text": "Member of the National Parliament",
+            "links": [
+              {
+                "text": "National Parliament",
+                "type": "internal",
+                "page": "National Parliament (East Timor)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end3": {
+            "text": "2012",
+            "number": 2012
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amaral has a degree in Agriculture."
+            },
+            {
+              "text": "He was Secretary-General of the Associação the Arquitetos de Timor-Leste (ART), Director of the Forte Group, and Administrator of Funuman PT Ltd."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2001, Amaral was elected as a Fretilin candidate to the Constituent Assembly of East Timor, from which the National Parliament emerged in 2002.",
+              "links": [
+                {
+                  "text": "National Parliament",
+                  "type": "internal",
+                  "page": "National Parliament (East Timor)"
+                }
+              ]
+            },
+            {
+              "text": "During the 2001–2007 Parliamentary term, he was a member of Committee G (Commission for Infrastructure)."
+            },
+            {
+              "text": "At the next Parliamentary elections in 2007, he was not re-elected, but on 21 August 2007, one month after the first session of Parliament, he succeeded one of the Fretilin candidates who had not taken up his or her seat.",
+              "links": [
+                {
+                  "text": "next Parliamentary elections in 2007",
+                  "type": "internal",
+                  "page": "2007 East Timorese parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "In Amaral's second legislative period, he was a member of the Committee for Infrastructure and Social Facilities (Committee G)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2015, Amaral was appointed as East Timor's ambassador to Thailand."
+            },
+            {
+              "text": "He succeeded João Câmara.",
+              "links": [
+                {
+                  "text": "João Câmara",
+                  "type": "internal",
+                  "page": "João Câmara (diplomat)"
+                }
+              ]
+            },
+            {
+              "text": "In 2020, Amaral's term in Bangkok ended."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following a change in the governing coalition, and the admission of Fretilin to the VIII Constitutional Government, Amaral was sworn in as Coordinating Minister of Economic Affairs on 24 June 2020."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "LISTA ALFABÉTICA DOS DEPUTADOS",
+          "url": "http://www.parlamento.tl/LISTA_ALF.htm",
+          "website": "National Parliament of East Timor",
+          "access-date": "1 December 2020",
+          "archive-url": "https://web.archive.org/web/20070928024904/http://www.parlamento.tl/LISTA%20ALF.htm",
+          "archive-date": "28 September 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "[Ambassador appointment announcements]",
+          "url": "https://www.facebook.com/1506491132925044/posts/dili-november-19th-2015president-of-the-republic-h-e-mr-taur-matan-ruak-accompan/1652100465030776/",
+          "website": "Embassy of Japan in Timor-Leste",
+          "access-date": "1 December 2020",
+          "date": "18 November 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Timor Leste emphasises relationship with Thailand as true friends",
+          "url": "https://thainews.prd.go.th/en/news/detail/TCATG200104145353982?fbclid=IwAR3pvtr-9w1CpdU_sSf0nMZYPMmSr11pAa14cKH9fpHAn6NKSZqk6h_xkx4",
+          "access-date": "1 December 2020",
+          "work": "NNT website",
+          "agency": "National News Bureau of Thailand",
+          "date": "4 January 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Structure of the VIII Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=13&lang=en",
+          "website": "Government of Timor-Leste",
+          "access-date": "24 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "[Profile] Joaquim Amaral",
+          "url": "http://www.parlamento.tl/Pag_Dep_Web_II_Leg/Joaquim_Amaral.htm",
+          "website": "National Parliament of East Timor",
+          "access-date": "1 December 2020",
+          "lang": "pt",
+          "archive-url": "https://web.archive.org/web/20081029091126/http://www.parlamento.tl/Pag_Dep_Web_II_Leg/Joaquim%20Amaral.htm",
+          "archive-date": "29 October 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Swearing-In and organic structure of the Eight Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=24746&lang=en&n=1",
+          "website": "Government of Timor-Leste",
+          "date": "24 June 2020",
+          "access-date": "26 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Timor-Leste's Eighth Constitutional Government (updated 17 July 2020)",
+          "url": "https://www.laohamutuk.org/misc/gov8/18VIIIGov.htm",
+          "website": "La'o Hamutuk website",
+          "publisher": "La'o Hamutuk: Timor-Leste Institute for Development Monitoring and Analysis",
+          "access-date": "22 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "commonscat-inline"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

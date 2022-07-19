@@ -1,0 +1,206 @@
+{
+  "title": "Pedro dos Reis",
+  "pageID": 66072849,
+  "categories": [
+    "Agriculture ministers of East Timor",
+    "Kmanek Haburas Unidade Nasional Timor Oan politicians",
+    "Government ministers of East Timor",
+    "Living people",
+    "Year of birth missing (living people)",
+    "21st-century politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pedro dos Reis is an East Timorese politician.",
+              "links": [
+                {
+                  "text": "East Timorese",
+                  "type": "internal",
+                  "page": "East Timor"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pedro dos Reis"
+                ]
+              }
+            },
+            {
+              "text": "He is the incumbent Minister of Agriculture and Fisheries, serving since June 2020 under the VIII Constitutional Government of East Timor led by Taur Matan Ruak.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "VIII Constitutional Government of East Timor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taur Matan Ruak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Reis is a member of the Kmanek Haburas Unidade Nasional Timor Oan (KHUNTO) political party; in March 2020, he was elected as its third Vice President.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kmanek Haburas Unidade Nasional Timor Oan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "East Timorese politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "engvarb"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "6",
+            "date": "24",
+            "df": "y",
+            "template": "start date",
+            "text": "June 24, 2020"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pedro dos Reis"
+          },
+          "image": {
+            "text": "2020-08-29 Pedro dos Reis.jpg"
+          },
+          "caption": {
+            "text": "Reis in 2020"
+          },
+          "party": {
+            "text": "KHUNTO",
+            "links": [
+              {
+                "text": "KHUNTO",
+                "type": "internal",
+                "page": "Kmanek Haburas Unidade Nasional Timor Oan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Agriculture and Fisheries",
+            "links": [
+              {
+                "text": "Minister of Agriculture and Fisheries",
+                "type": "internal",
+                "page": "Minister of Agriculture and Fisheries (East Timor)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "June 24, 2020"
+          },
+          "primeminister1": {
+            "text": "Taur Matan Ruak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taur Matan Ruak"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Joaquim Gusmão Martins",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joaquim Gusmão Martins"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Swearing-In and organic structure of the Eight Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=24746&lang=en&n=1",
+          "website": "Government of Timor-Leste",
+          "date": "24 June 2020",
+          "access-date": "11 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Structure of the VIII Constitutional Government",
+          "url": "http://timor-leste.gov.tl/?p=13&lang=en",
+          "website": "Government of Timor-Leste",
+          "access-date": "11 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Colo",
+          "first1": "Cipriano",
+          "title": "Armanda Berta Re-eleita Lidera KHUNTO ba Períudu 2020–2024",
+          "trans-title": "Armanda Berta re-elected as KHUNTO leader for the period 2020–2024",
+          "url": "http://www.tatoli.tl/2020/03/08/armanda-berta-re-eleita-lidera-khunto-ba-periudu-2020-2024/",
+          "access-date": "11 December 2020",
+          "lang": "tet",
+          "work": "Tatoli website",
+          "date": "8 March 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Timor-Leste's Eighth Constitutional Government (updated 17 July 2020)",
+          "url": "https://www.laohamutuk.org/misc/gov8/18VIIIGov.htm",
+          "website": "La'o Hamutuk website",
+          "publisher": "La'o Hamutuk: Timor-Leste Institute for Development Monitoring and Analysis",
+          "access-date": "22 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "commonscat-inline"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
